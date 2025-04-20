@@ -1,7 +1,7 @@
 {
     "rewrites": [
       { "source": "/", "destination": "/praeco_main/praeco/landing_page.html" },
-      { "source": "/about", "destination": "/praeco/about_us.html" },
-      { "source": "/contact", "destination": "/praeco/contact_us.html" }
+      { "source": "/about", "destination": "/praeco_main/praeco/about_us.html" },
+      { "source": "/contact", "destination": "/praeco_main/praeco/contact_us.html" }
     ]
   }
